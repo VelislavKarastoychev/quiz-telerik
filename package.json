@@ -24,5 +24,9 @@
   "dependencies": {
     "@euriklis/message": "^2.1.2",
     "@euriklis/validator": "^3.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.45.0",
+    "eslint-config-google": "^0.14.0"
   }
 }
