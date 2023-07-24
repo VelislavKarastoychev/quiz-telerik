@@ -18,6 +18,7 @@ To implement the project we used the @euriklis/validator package.
 - Corect resiult - число 
 
 3. На случаен принцип вземи един от елеменмтите на 1.
+
 4. Иницилиазираи съдържанието на ключа question, разбъркай елементите на answers, като   запзиш променаната стойност на coretc result. 
 
 
