@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/VelislavKarastoychev/quiz-telerik/issues"
   },
-  "homepage": "https://github.com/VelislavKarastoychev/quiz-telerik#readme"
+  "homepage": "https://github.com/VelislavKarastoychev/quiz-telerik#readme",
+  "dependencies": {
+    "@euriklis/message": "^2.1.2",
+    "@euriklis/validator": "^3.1.0"
+  }
 }
