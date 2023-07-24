@@ -1,7 +1,7 @@
 {
   "name": "quiz-telerik",
   "version": "1.0.0",
-  "description": "A questionaire for JS junior developers.",
+  "description": "A questionnaire for JS junior developers.",
   "module": "type",
   "main": "index.js",
   "scripts": {
