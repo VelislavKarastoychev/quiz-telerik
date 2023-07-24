@@ -1,0 +1,24 @@
+{
+  "name": "quiz-telerik",
+  "version": "1.0.0",
+  "description": "A questionaire for JS junior developers.",
+  "module": "type",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VelislavKarastoychev/quiz-telerik.git"
+  },
+  "keywords": [
+    "quiz"
+  ],
+  "author": "Vasilena and Velislav",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VelislavKarastoychev/quiz-telerik/issues"
+  },
+  "homepage": "https://github.com/VelislavKarastoychev/quiz-telerik#readme"
+}
